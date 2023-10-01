@@ -1,12 +1,12 @@
-# What is JavaScript?
+** What is JavaScript?**
 JavaScript is indeed one of the most popular and widely used programming languages worldwide. It is currently experiencing rapid growth, surpassing other programming languages in popularity. Major companies such as Netflix, Walmart, and PayPal rely on JavaScript to develop complete applications.
 
-# What can you do with JavaScript?
+** What can you do with JavaScript?**
 JavaScript used to be primarily used in web browsers to create interactive web pages. Some developers considered it a toy language during that time. However, things have changed significantly due to the strong support from the JavaScript community and significant investments from major companies like Facebook and Google.
 
 Today, JavaScript has evolved into a versatile language that can be used to build complete web and mobile applications. It is also capable of powering real-time networking applications such as chat systems and video streaming services. Moreover, JavaScript can be utilized to create command-line tools and even games. Its capabilities have expanded beyond the web, making it a powerful and widely applicable programming language.
 
-# Where does JavaScript code run?
+** Where does JavaScript code run?**
 JavaScript was originally designed to function exclusively in web browsers. Each browser contains a JavaScript engine responsible for executing JavaScript code. For instance, Firefox uses the SpiderMonkey engine, while Chrome uses the V8 engine.
 
 
