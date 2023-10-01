@@ -1,0 +1,58 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 10,
+            "patches": [
+                {
+                    "date": 1696148789064,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1696148857303,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,7 +5,7 @@\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n     <title>Document</title>\n </head>\n <body>\n-    \n+    <h1>Hellow Niluka!!</h1>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696148867044,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,7 +5,7 @@\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n     <title>Document</title>\n </head>\n <body>\n-    <h1>Hellow Niluka!!</h1>\n+    <h1>Hello Niluka!!</h1>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696149017780,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,6 +6,9 @@\n     <title>Document</title>\n </head>\n <body>\n     <h1>Hello Niluka!!</h1>\n+    <script>\n+        console.log(\"Hello World!!\")\n+    </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696153382075,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,17 @@\n     <title>Document</title>\n </head>\n <body>\n     <h1>Hello Niluka!!</h1>\n+    \n     <script>\n-        console.log(\"Hello World!!\")\n+        // Comment <ignore java script engine>\n+        // There are two places, where we can add a script element. \n+        // In a head section, or in the body section.\n+        /**\n+         * The best practice is to put the script element at the end of the body section \n+         * after all the existing elements.\n+         */\n+        console.log('Hello World!!');\n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696153565860,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,8 @@\n         /**\n          * The best practice is to put the script element at the end of the body section \n          * after all the existing elements.\n          */\n-        console.log('Hello World!!');\n+        console.log('Hello World!!'); // Log a message on the console.\n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696154094098,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n </head>\n <body>\n     <h1>Hello Niluka!!</h1>\n     \n-    <script>\n+    <script src=\"index.js\">\n         // Comment <ignore java script engine>\n         // There are two places, where we can add a script element. \n         // In a head section, or in the body section.\n         /**\n"
+                },
+                {
+                    "date": 1696154130265,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,15 +8,8 @@\n <body>\n     <h1>Hello Niluka!!</h1>\n     \n     <script src=\"index.js\">\n-        // Comment <ignore java script engine>\n-        // There are two places, where we can add a script element. \n-        // In a head section, or in the body section.\n-        /**\n-         * The best practice is to put the script element at the end of the body section \n-         * after all the existing elements.\n-         */\n-        console.log('Hello World!!'); // Log a message on the console.\n+       \n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696154150605,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,8 +8,15 @@\n <body>\n     <h1>Hello Niluka!!</h1>\n     \n     <script src=\"index.js\">\n-       \n+        // Comment <ignore java script engine>\n+        // There are two places, where we can add a script element. \n+        // In a head section, or in the body section.\n+        /**\n+         * The best practice is to put the script element at the end of the body section \n+         * after all the existing elements.\n+         */\n+        console.log('Hello World!!'); // Log a message on the console.\n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696154170444,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,8 @@\n         /**\n          * The best practice is to put the script element at the end of the body section \n          * after all the existing elements.\n          */\n-        console.log('Hello World!!'); // Log a message on the console.\n+        // console.log('Hello World!!'); // Log a message on the console.\n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1696154183610,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,7 @@\n         /**\n          * The best practice is to put the script element at the end of the body section \n          * after all the existing elements.\n          */\n-        // console.log('Hello World!!'); // Log a message on the console.\n     </script>\n </body>\n </html>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1696148789064,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n</head>\n<body>\n    \n</body>\n</html>"
+        }
+    ]
+}

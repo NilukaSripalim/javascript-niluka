@@ -1,0 +1,26 @@
+{
+    "sourceFile": "index.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1696154032362,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1696154193233,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,11 @@\n+/*\n+ *   Copyright (c) 2023 WSO2 LLC. (http://www.wso2.org)\n+ *   All rights reserved.\n+ *   \n+ *   This software is the property of WSO2 LLC. and its suppliers, if any.\n+ *   Dissemination of any information or reproduction of any material contained\n+ *   herein in any form is strictly forbidden, unless permitted by WSO2 expressly.\n+ *   You may not alter or remove any copyright or other notice from copies of this content.\n+ */\n // This is for Separation of Concerns\n-console.log('Niluka Sripali Ex:01');\n+console.log('Niluka Sripali Ex:01'); // Log a message on the console.\n"
+                },
+                {
+                    "date": 1696154206617,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,11 +1,2 @@\n-/*\n- *   Copyright (c) 2023 WSO2 LLC. (http://www.wso2.org)\n- *   All rights reserved.\n- *   \n- *   This software is the property of WSO2 LLC. and its suppliers, if any.\n- *   Dissemination of any information or reproduction of any material contained\n- *   herein in any form is strictly forbidden, unless permitted by WSO2 expressly.\n- *   You may not alter or remove any copyright or other notice from copies of this content.\n- */\n // This is for Separation of Concerns\n console.log('Niluka Sripali Ex:01'); // Log a message on the console.\n"
+                }
+            ],
+            "date": 1696154032362,
+            "name": "Commit-0",
+            "content": "// This is for Separation of Concerns\nconsole.log('Niluka Sripali Ex:01');\n"
+        }
+    ]
+}
